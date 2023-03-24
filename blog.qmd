@@ -1,0 +1,21 @@
+---
+title: "My Blog"
+description: >
+  On my blog, I explore various topics with the aim of broadening my own horizons and sharing my learning journey with others.
+  I hope that my blog can be a valuable resource for anyone who is curious and eager to learn.
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed:
+    categories: [R]
+  image-align: left
+page-layout: full
+title-block-banner: false
+---
+
+

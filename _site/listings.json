@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/R-tips/r-tips.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html",
+      "/posts/Analyzing-Twitter-Data/post.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/R-tips/r-tips.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html",
+      "/posts/Analyzing-Twitter-Data/post.html"
+    ]
+  },
+  {
+    "listing": "/posts/R-tips/r-tips.html",
+    "items": []
+  }
+]

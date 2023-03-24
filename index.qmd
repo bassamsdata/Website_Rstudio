@@ -1,0 +1,80 @@
+---
+title: "Bassam Saleh"
+page-layout: full
+title-block-banner: false
+
+
+listing:
+  - id: recent-blog-listing
+    contents:
+      - "blog/*/*.qmd"
+    sort: "date desc"
+    type: grid
+    max-items: 9
+    page-size: 3
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [title, image, description, date]
+  - id: recent-project-listing
+    contents:
+      - "projects/*/*.qmd"
+    sort: "date desc"
+    type: grid
+    max-items: 9
+    page-size: 3
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [title, image, description, date]
+---
+
+
+```{=html}
+<div class="site-hero mb-5">
+  <div class="site-intro">
+    <h1 class="site-title text-primary mt-0 fw-lighter text-center text-sm-start">
+      Bassam
+      <span class="nowrap">Saleh</span>
+    </h1>
+    <div class="social-icon-links my-3" aria-hidden="true">
+      <a
+        class="link-primary"
+        href="https://github.com/bassamsdata"
+        title="github"
+        target="_blank"
+        rel="noopener"
+      >
+        <i class="fab fa-github fa-lg fa-fw"></i>
+      </a>
+      <a
+        class="link-primary"
+        href="https://twitter.com/bassamstreet"
+        title="twitter"
+        target="_blank"
+        rel="noopener"
+      >
+        <i class="fab fa-twitter fa-lg fa-fw"></i>
+        </a>
+    </div>
+    <p class="site-into fs-5">
+      I’m Bassam a <strong>data science and analytics enthusiast</strong> with a business administration education and working experience in customer relations and marketing roles for large technology companies like <strong>Nokia and Samsung</strong>.<br><br> I've worked on several data science projects using <strong>R, Python, and SQL</strong>. <br>
+      Being able to build appealing visuals to communicate difficult information in an engaging way through <a href="https://shiny.rstudio.com">Shiny</a> and <a href="https://www.tableau.com">Tableau</a> is one of the most satisfying aspects of these projects.
+    </p>
+  </div>
+  <div class="site-logo order-first order-sm-last text-primary">
+    
+  </div>
+</div>
+```
+
+## Latest Posts
+
+::: {#recent-blog-listing}
+:::
+
+## Latest Projects
+
+::: {#recent-project-listing}
+:::
+

@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Bassam"
+  site-url: https://bassamsdata.github.io
+  navbar:
+    background: light
+    right:
+      - href: blog.qmd
+      - href: projects.qmd
+      - icon: github
+        href: https://github.com/bassamsdata
+      - icon: twitter
+        href: https://twitter.com/bassamstreet
+      - text: Archive
+        href: archive.qmd
+  page-footer:
+    border: false
+    background: light
+    left: >
+      © 2023 Bassam Saleh
+    right: >
+      <a class="link-dark me-1" href="/colophon">Made with 🤍 & ☕️</a>
+    center: >
+      <a class="link-dark" href="https://github.com/bassamsdata" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark" href="https://twitter.com/bassamstreet" title="twitter" target="_blank" rel="noopener">{{< fa brands twitter >}}</a>
+format:
+  html:
+    theme: 
+     light: Yeti
+     dark: solar
+    ##css: styles.css
+
+
+
