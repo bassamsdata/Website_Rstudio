@@ -1,59 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>bassamsdata.github.io/blog.html</loc>
-    <lastmod>2023-03-23T13:18:38.404Z</lastmod>
-  </url>
-  <url>
-    <loc>bassamsdata.github.io/posts/Analyzing Twitter Data/post.html</loc>
-    <lastmod>2023-03-23T13:15:33.226Z</lastmod>
-  </url>
-  <url>
-    <loc>bassamsdata.github.io/index.html</loc>
-    <lastmod>2023-03-23T13:27:03.482Z</lastmod>
-  </url>
-  <url>
-    <loc>bassamsdata.github.io/projects.html</loc>
-    <lastmod>2023-03-23T13:15:32.081Z</lastmod>
-  </url>
-  <url>
-    <loc>bassamsdata.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2023-03-23T13:19:58.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bassamsdata.github.io/blog.html</loc>
-    <lastmod>2023-03-24T02:44:34.434Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bassamsdata.github.io/projects.html</loc>
-    <lastmod>2023-03-24T02:44:41.222Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bassamsdata.github.io/archive.html</loc>
-    <lastmod>2023-03-23T15:29:00.494Z</lastmod>
-  </url>
-  <url>
     <loc>https://bassamsdata.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2023-03-23T15:23:02.631Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bassamsdata.github.io/index.html</loc>
-    <lastmod>2023-03-24T02:45:45.765Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bassamsdata.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-03-23T15:29:23.710Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bassamsdata.github.io/posts/Analyzing Twitter Data/post.html</loc>
-    <lastmod>2023-03-23T15:23:14.085Z</lastmod>
+    <lastmod>2023-03-24T03:22:51.847Z</lastmod>
   </url>
   <url>
     <loc>https://bassamsdata.github.io/posts/R-tips/r-tips.html</loc>
-    <lastmod>2023-03-23T15:29:18.343Z</lastmod>
+    <lastmod>2023-03-24T03:22:52.626Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bassamsdata.github.io/posts/welcome/index.html</loc>
+    <lastmod>2023-03-24T03:22:53.036Z</lastmod>
   </url>
   <url>
     <loc>https://bassamsdata.github.io/posts/Analyzing-Twitter-Data/post.html</loc>
-    <lastmod>2023-03-23T16:13:01.614Z</lastmod>
+    <lastmod>2023-03-24T03:22:53.805Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bassamsdata.github.io/projects.html</loc>
+    <lastmod>2023-03-24T03:22:54.263Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bassamsdata.github.io/archive.html</loc>
+    <lastmod>2023-03-24T03:22:54.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bassamsdata.github.io/index.html</loc>
+    <lastmod>2023-03-24T03:22:55.095Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bassamsdata.github.io/blog.html</loc>
+    <lastmod>2023-03-24T03:22:55.692Z</lastmod>
   </url>
 </urlset>

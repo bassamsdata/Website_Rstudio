@@ -1,16 +1,7 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/posts/R-tips/r-tips.html",
     "items": []
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/R-tips/r-tips.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html",
-      "/posts/Analyzing-Twitter-Data/post.html"
-    ]
   },
   {
     "listing": "/projects.html",
@@ -26,7 +17,12 @@
     ]
   },
   {
-    "listing": "/posts/R-tips/r-tips.html",
-    "items": []
+    "listing": "/blog.html",
+    "items": [
+      "/posts/R-tips/r-tips.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html",
+      "/posts/Analyzing-Twitter-Data/post.html"
+    ]
   }
 ]

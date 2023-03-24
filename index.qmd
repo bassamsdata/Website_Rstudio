@@ -7,7 +7,7 @@ title-block-banner: false
 listing:
   - id: recent-blog-listing
     contents:
-      - "blog/*/*.qmd"
+      - "posts/*/*.qmd"
     sort: "date desc"
     type: grid
     max-items: 9
